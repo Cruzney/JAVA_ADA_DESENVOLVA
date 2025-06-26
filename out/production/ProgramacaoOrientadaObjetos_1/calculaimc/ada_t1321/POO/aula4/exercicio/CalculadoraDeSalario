@@ -1,0 +1,7 @@
+class BackupGitDownloadMain.ada_t1321.exercicioResolvido.aula4.POO.ada_t1321.CalculadoraDeSalario{
+
+    double calculaDesconto(BackupGitDownloadMain.ada_t1321.exercicio.aula3.POO.ada_t1321.Funcionario funcionario){
+        // TODO implementar calculo do desconto
+        return 0.0;
+    }
+}
